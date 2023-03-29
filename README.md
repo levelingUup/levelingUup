@@ -3,10 +3,15 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/levelingUup">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levelingUup&show_icons=true&theme=radical&include_all_commits=true&hide=stars&conut_private=false">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
+    <img algin="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
   </a> 
 </div>
-
+   <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Henry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Henry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Henry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
