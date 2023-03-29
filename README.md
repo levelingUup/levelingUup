@@ -3,9 +3,8 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/levelingUup">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levelingUup&show_icons=true&theme=radical&include_all_commits=true&hide=stars&conut_private=false">
-    <img algin="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
-  </a> 
-</div>
+  <img algin="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
+  </a>
    <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Henry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
