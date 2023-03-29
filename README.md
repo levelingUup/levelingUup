@@ -2,8 +2,8 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/levelingUup">
-  <img algin="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=levelingUup&show_icons=true&theme=radical&include_all_commits=true&hide=stars&conut_private=false">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=levelingUup&show_icons=true&theme=radical&include_all_commits=true&hide=stars&conut_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levelingUup&layout=compact&langs_count=16&theme=radical">
   </a>
   </div>
   
